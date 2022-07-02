@@ -1,0 +1,29 @@
+.App-header {
+  background-color: #282c34;
+  color: white;
+  height: -1000;
+}
+ul{
+  list-style-type: square ;
+  font-family: 'Times New Roman', Times, serif;
+  font-size: medium;
+  background-color: #173459;
+  padding: 15px;
+}
+ul li{
+  background-color: #d9534f;
+  padding: 5px;
+  margin-left: 30px;
+}
+
+.sublist{
+  list-style-type: disc;
+  
+}
+
+span{
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bolder;
+  color: black;
+  font-size: 'xx-large';
+}
